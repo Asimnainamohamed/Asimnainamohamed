@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asim Naina Mohamed.A</h1>
+<h1 align="center">ABOUT/h1>
 <h3 align="center">I'm a dedicated computer science student pursuing a bachelor's degree and aspiring software developer, with a strong foundation in technical skills and a knack for effective project management. I excel at tackling complex real-world problems through innovative solutions. Committed to continuous learning and improvement, I am eager to contribute my skills to impactful software development projects and thrive in dynamic environments. Let's connect and explore the boundless possibilities with world of software.</h3>
 
 <h3 align="left">Connect with me:</h3>
